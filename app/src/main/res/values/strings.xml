@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Dagger Kotlin Example</string>
+    <string name="helloButtonLabel">Hello!</string>
+    <string name="readButtonLabel">Read Text</string>
+    <string name="saveButtonLabel">Save Text</string>
+</resources>
