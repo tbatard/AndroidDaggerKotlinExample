@@ -2,7 +2,6 @@ package com.tarbadev.carambar
 
 import dagger.Module
 import dagger.Provides
-import org.springframework.web.client.RestTemplate
 import javax.inject.Named
 
 @Module
